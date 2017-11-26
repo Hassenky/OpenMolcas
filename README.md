@@ -1,4 +1,4 @@
-OpenMolcas
+OpenMolcas (A copy of OpenMolcas from Gitlab)
 ==========
 
 OpenMolcas is a quantum chemistry software package developed by scientists
